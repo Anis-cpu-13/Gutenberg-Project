@@ -21,7 +21,7 @@ def data_analysis_main (data):
     plt.yticks(fontsize=12)
     plt.tight_layout()
     plt.savefig('graphs/distribution_downloads.png')  # Sauvegarde du graphique
-    plt.close()  # Fermeture du graphique
+    plt.close()  
     
     # Créer un graphique en barres pour visualiser le nombre de livres par auteur (pour les 10 auteurs avec le plus de livres)
     plt.figure(figsize=(12, 8))
@@ -33,7 +33,7 @@ def data_analysis_main (data):
     plt.yticks(fontsize=12)
     plt.tight_layout()
     plt.savefig('graphs/books_per_author.png')  # Sauvegarde du graphique
-    plt.close()  # Fermeture du graphique
+    plt.close()  
     
     # Créer un graphique en barres pour visualiser le nombre de livres par sujet (pour les 10 sujets avec le plus de livres)
     plt.figure(figsize=(12, 8))
@@ -45,7 +45,7 @@ def data_analysis_main (data):
     plt.yticks(fontsize=12)
     plt.tight_layout()
     plt.savefig('graphs/books_per_subject.png')  # Sauvegarde du graphique
-    plt.close()  # Fermeture du graphique
+    plt.close()  
 
 def main():
     # Charger les données à partir du fichier CSV

@@ -1,3 +1,5 @@
+#!/usr/env python3
+
 from book_scraper import main as scrape_and_download_books
 from data_analysis import main as data_analysis_main
 from data_clustering import main as data_clustering_main

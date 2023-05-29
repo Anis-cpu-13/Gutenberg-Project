@@ -1,0 +1,18 @@
+
+Ce rapport décrit en détail un système de traitement de données destiné à interagir avec le site web du Projet Gutenberg, une ressource en ligne considérable d'œuvres littéraires disponibles au public. Le programme, écrit en Python, est constitué de trois composants principaux : un scraper de livres, un analyseur de données et un module de clustering de données. Chacun de ces modules joue un rôle essentiel dans la fonctionnalité globale du système et a été intégré dans un script principal qui coordonne l'exécution séquentielle des modules.
+
+\section{Le Projet Gutenberg}
+L'initiative de ce projet est née d'une proposition de projet tuteuré visant à simplifier l'accès aux informations sur les livres les plus populaires disponibles sur le Projet Gutenberg. Le programme est spécifiquement conçu pour cibler les 100 livres les plus téléchargés au cours des 30 derniers jours. Cette focalisation sur les livres populaires vise à identifier les tendances de lecture, faciliter les recommandations de livres et fournir une analyse détaillée des caractéristiques communes des livres fréquemment téléchargés.
+
+\section{Les Modules}
+\subsection{Le Scraper de Livres}
+Le premier module est un scraper de livres qui navigue sur le site web du Projet Gutenberg pour extraire des informations précieuses sur les livres. Ces informations incluent le titre du livre, l'auteur, l'URL de téléchargement du livre, le sujet ou le genre du livre, la classe LoC (Library of Congress Classification), et le nombre de téléchargements pour chaque livre. Ces données constituent une base solide pour une analyse ultérieure visant à obtenir des insights pertinents.
+
+\subsection{L'Analyseur de Données}
+Le deuxième module est un analyseur de données. Ce module utilise les données extraites par le scraper de livres pour réaliser une série d'analyses destinées à déduire des tendances et des modèles. Ces analyses peuvent comprendre l'identification des genres les plus populaires, des auteurs les plus lus, et toute corrélation entre différents aspects des livres.
+
+\subsection{Le Module de Clustering de Données}
+Le dernier module du système est le module de clustering de données. Ce module utilise des techniques d'apprentissage automatique pour regrouper les livres en fonction de leurs caractéristiques communes. Les groupes, ou clusters, peuvent être basés sur n'importe quelle combinaison de caractéristiques, telles que le genre ou la classe LoC. Ce regroupement peut aider à identifier les sous-groupes parmi les livres les plus populaires et à fournir des recommandations de livres en fonction de ces sous-groupes.
+
+\section{L'Exécution}
+Tous ces modules sont orchestrés par un script principal qui les exécute en séquence. Le processus commence par le scraping des données sur le site web du Projet Gutenberg. Les données collectées sont ensuite analysées pour extraire des insights. Enfin, le module de clustering de données est utilisé pour regrouper les livres en fonction de leurs attributs communs. Ce rapport détaille le fonctionnement de chaque module, ainsi que les résultats obtenus par leur exécution. Il présentera également les avantages potentiels de l'utilisation de ce système et les perspectives.

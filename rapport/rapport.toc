@@ -1,0 +1,24 @@
+\babel@toc {french}{}\relax 
+\contentsline {chapter}{\numberline {1}Introduction}{ii}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Le Projet Gutenberg}{ii}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Les Modules}{ii}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Le Scraper de Livres}{ii}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}L'Analyseur de Données}{iii}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}Le Module de Clustering de Données}{iii}{subsection.1.2.3}%
+\contentsline {section}{\numberline {1.3}L'Exécution}{iii}{section.1.3}%
+\contentsline {chapter}{\numberline {2}Fonctionnalités}{iv}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Technologies Utilisées}{v}{section.2.1}%
+\contentsline {chapter}{\numberline {3}Analyseur de Données}{vi}{chapter.3}%
+\contentsline {subsection}{\numberline {3.0.1}Chargement des Données}{vi}{subsection.3.0.1}%
+\contentsline {subsection}{\numberline {3.0.2}Analyses}{vi}{subsection.3.0.2}%
+\contentsline {chapter}{\numberline {4}Clustering de Données}{viii}{chapter.4}%
+\contentsline {subsection}{\numberline {4.0.1}Lecture et Prétraitement des Données}{viii}{subsection.4.0.1}%
+\contentsline {subsection}{\numberline {4.0.2}Clustering K-Means}{viii}{subsection.4.0.2}%
+\contentsline {subsection}{\numberline {4.0.3}Clustering Mean Shift}{viii}{subsection.4.0.3}%
+\contentsline {subsection}{\numberline {4.0.4}Évaluation des Clusters}{ix}{subsection.4.0.4}%
+\contentsline {subsection}{\numberline {4.0.5}Visualisation des Clusters}{ix}{subsection.4.0.5}%
+\contentsline {chapter}{\numberline {5}Résultats}{x}{chapter.5}%
+\contentsline {subsection}{\numberline {5.0.1}Téléchargement des Livres}{x}{subsection.5.0.1}%
+\contentsline {subsection}{\numberline {5.0.2}Clustering de Données}{x}{subsection.5.0.2}%
+\contentsline {chapter}{\numberline {6}Conclusion}{xii}{chapter.6}%
+\contentsfinish 

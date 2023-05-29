@@ -1,0 +1,33 @@
+Le script a été exécuté avec succès, accomplissant l'ensemble des tâches qu'il avait été programmé à réaliser. Les résultats sont détaillés ci-dessous :
+
+\subsection{Téléchargement des Livres}
+Le script a réussi à télécharger les 100 livres les plus téléchargés du dernier mois à partir du site du Projet Gutenberg. Ceci est confirmé par la barre de progression affichée, qui indique que 100\% (100 sur 100) des livres ont été téléchargés. L'ensemble du processus de téléchargement a pris 31 secondes.
+
+\subsection{Clustering de Données}
+Une fois que les livres ont été téléchargés et que leurs informations ont été sauvegardées, le script a entamé le processus de clustering de données. Ce processus comprend plusieurs étapes :
+\begin{enumerate}
+    \item \textbf{Chargement des Données :} Les données sur les livres, qui avaient été sauvegardées dans un fichier CSV, ont été chargées avec succès dans le script.
+    \item \textbf{Encodage des Caractéristiques Catégorielles :} Les caractéristiques catégorielles, telles que le sujet et la classe LoC, ont été encodées avec succès. Cela a transformé ces caractéristiques en un format que les algorithmes de clustering peuvent comprendre et utiliser.
+    \item \textbf{Clustering KMeans :} L'algorithme KMeans a été appliqué aux données, créant ainsi des clusters de livres basés sur leurs caractéristiques. Le score silhouette pour KMeans était de 0.7243, ce qui indique une bonne séparation des clusters. En d'autres termes, les livres au sein de chaque cluster étaient assez similaires les uns aux autres, mais différents des livres dans les autres clusters.
+    \item \textbf{Clustering MeanShift :} L'algorithme MeanShift a également été appliqué aux données. Le score silhouette pour MeanShift était de 0.7531, ce qui indique également une bonne séparation des clusters.
+    \item \textbf{Tracé des Clusters :} Enfin, les clusters créés par les deux algorithmes ont été tracés et les graphiques correspondants ont été sauvegardés avec succès.
+\end{enumerate}
+\newpage
+Les résultats affichés dans le terminal lors de l'exécution du script sont les suivants :
+
+\begin{verbatim}
+Starting data clustering...
+Loading data...
+Data loaded successfully.
+Encoding categorical features...
+Categorical features encoded successfully.
+Performing KMeans clustering...
+Silhouette score for KMeans: 0.7242743155783912
+Performing MeanShift clustering...
+Silhouette score for MeanShift: 0.7530932001697799
+Plotting clusters...
+Clusters plotted and saved successfully.
+Data clustering completed successfully.
+\end{verbatim}
+
+En conclusion, le script a été capable de télécharger les livres, de regrouper les données, et de générer des clusters avec une bonne séparation. Le score silhouette pour les deux algorithmes de clustering indique que les clusters ont été bien formés, avec les livres similaires regroupés ensemble. Ces résultats démontrent la réussite de l'implémentation du script.

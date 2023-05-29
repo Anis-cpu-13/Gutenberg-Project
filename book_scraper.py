@@ -11,6 +11,7 @@ import progressbar
 
 logging.basicConfig(filename='app.log', filemode='w', format='%(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
+
 def get_book_titles_and_authors(url):
     response = requests.get(url, timeout=60)
     soup = BeautifulSoup(response.text, 'html.parser')
@@ -169,7 +170,7 @@ def download_books(book_list, num_books, timeout_seconds):
 def scrape_and_download_books():
     url = "https://www.gutenberg.org/browse/scores/top#books-last30"
     book_titles_and_authors = get_book_titles_and_authors(url)
-    
+
     # Récupération des informations détaillées des livres en parallèle
     with concurrent.futures.ThreadPoolExecutor() as executor:
         futures = []

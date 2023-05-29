@@ -1,38 +1,27 @@
-﻿The Project Gutenberg EBook of Little Women, by Louisa M. Alcott
+﻿The Project Gutenberg eBook of Little Women, by Louisa M. Alcott
 
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org. If you are not located in the United States, you
+will have to check the laws of the country where you are located before
+using this eBook.
 
-
-Title: Little Women
-       or Meg, Jo, Beth, and Amy
+Title: Little Women or Meg, Jo, Beth, and Amy
 
 Author: Louisa M. Alcott
 
 Illustrator: Frank T. Merrill
 
-Release Date: August 16, 2011 [EBook #37106]
-Last Update:  August 8, 2017
+Release Date: August 16, 2011 [eBook #37106]
+[Most recently updated: May 22, 2023]
 
 Language: English
 
+Produced by: David Edwards, Ernest Schaal, Robert Homa, and the Online Distributed Proofreading Team
 
-*** START OF THIS PROJECT GUTENBERG EBOOK LITTLE WOMEN ***
-
-
-
-
-Produced by David Edwards, Ernest Schaal, Robert Homa and the 
-Online Distributed Proofreading Team at http://www.pgdp.net 
-(This file was produced from images generously made available
-by The Internet Archive)
-
-
-
-
-
+*** START OF THE PROJECT GUTENBERG EBOOK LITTLE WOMEN ***
 
 
 
@@ -122,104 +111,104 @@ Beth at her feet"
 
                               Part First.
 
-            CHAPTER                                         PAGE
+            CHAPTER
 
-         I. PLAYING PILGRIMS                                   1
+         I. PLAYING PILGRIMS
 
-        II. A MERRY CHRISTMAS                                 15
+        II. A MERRY CHRISTMAS
 
-       III. THE LAURENCE BOY                                  29
+       III. THE LAURENCE BOY
 
-        IV. BURDENS                                           43
+        IV. BURDENS
 
-         V. BEING NEIGHBORLY                                  58
+         V. BEING NEIGHBORLY
 
-        VI. BETH FINDS THE PALACE BEAUTIFUL                   73
+        VI. BETH FINDS THE PALACE BEAUTIFUL
 
-       VII. AMY'S VALLEY OF HUMILIATION                       82
+       VII. AMY'S VALLEY OF HUMILIATION
 
-      VIII. JO MEETS APOLLYON                                 91
+      VIII. JO MEETS APOLLYON
 
-        IX. MEG GOES TO VANITY FAIR                          104
+        IX. MEG GOES TO VANITY FAIR
 
-         X. THE P. C. AND P. O.                              124
+         X. THE P. C. AND P. O.
 
-        XI. EXPERIMENTS                                      134
+        XI. EXPERIMENTS
 
-       XII. CAMP LAURENCE                                    147
+       XII. CAMP LAURENCE
 
-      XIII. CASTLES IN THE AIR                               172
+      XIII. CASTLES IN THE AIR
 
-       XIV. SECRETS                                          184
+       XIV. SECRETS
 
-        XV. A TELEGRAM                                       195
+        XV. A TELEGRAM
 
-       XVI. LETTERS                                          206
+       XVI. LETTERS
 
-      XVII. LITTLE FAITHFUL                                  216
+      XVII. LITTLE FAITHFUL
 
-     XVIII. DARK DAYS                                        225
+     XVIII. DARK DAYS
 
-       XIX. AMY'S WILL                                       234
+       XIX. AMY'S WILL
 
-        XX. CONFIDENTIAL                                     246
+        XX. CONFIDENTIAL
 
-       XXI. LAURIE MAKES MISCHIEF, AND JO MAKES PEACE        254
+       XXI. LAURIE MAKES MISCHIEF, AND JO MAKES PEACE
 
-      XXII. PLEASANT MEADOWS                                 269
+      XXII. PLEASANT MEADOWS
 
-     XXIII. AUNT MARCH SETTLES THE QUESTION                  277
+     XXIII. AUNT MARCH SETTLES THE QUESTION
 
 
                               Part Second.
 
-      XXIV. GOSSIP                                           293
+      XXIV. GOSSIP
 
-       XXV. THE FIRST WEDDING                                306
+       XXV. THE FIRST WEDDING
 
-      XXVI. ARTISTIC ATTEMPTS                                313
+      XXVI. ARTISTIC ATTEMPTS
 
-     XXVII. LITERARY LESSONS                                 325
+     XXVII. LITERARY LESSONS
 
-    XXVIII. DOMESTIC EXPERIENCES                             334
+    XXVIII. DOMESTIC EXPERIENCES
 
-      XXIX. CALLS                                            350
+      XXIX. CALLS
 
-       XXX. CONSEQUENCES                                     365
+       XXX. CONSEQUENCES
 
-      XXXI. OUR FOREIGN CORRESPONDENT                        378
+      XXXI. OUR FOREIGN CORRESPONDENT
 
-     XXXII. TENDER TROUBLES                                  389
+     XXXII. TENDER TROUBLES
 
-    XXXIII. JO'S JOURNAL                                     403
+    XXXIII. JO'S JOURNAL
 
-     XXXIV. A FRIEND                                         418
+     XXXIV. A FRIEND
 
-      XXXV. HEARTACHE                                        435
+      XXXV. HEARTACHE
 
-     XXXVI. BETH'S SECRET                                    448
+     XXXVI. BETH'S SECRET
 
-    XXXVII. NEW IMPRESSIONS                                  454
+    XXXVII. NEW IMPRESSIONS
 
-   XXXVIII. ON THE SHELF                                     466
+   XXXVIII. ON THE SHELF
 
-     XXXIX. LAZY LAURENCE                                    480
+     XXXIX. LAZY LAURENCE
 
-        XL. THE VALLEY OF THE SHADOW                         495
+        XL. THE VALLEY OF THE SHADOW
 
-       XLI. LEARNING TO FORGET                               502
+       XLI. LEARNING TO FORGET
 
-      XLII. ALL ALONE                                        516
+      XLII. ALL ALONE
 
-     XLIII. SURPRISES                                        525
+     XLIII. SURPRISES
 
-      XLIV. MY LORD AND LADY                                 543
+      XLIV. MY LORD AND LADY
 
-       XLV. DAISY AND DEMI                                   550
+       XLV. DAISY AND DEMI
 
-      XLVI. UNDER THE UMBRELLA                               558
+      XLVI. UNDER THE UMBRELLA
 
-     XLVII. HARVEST TIME                                     575
+     XLVII. HARVEST TIME
 
                    [Illustration: Tail-piece to Contents]
 
@@ -236,420 +225,417 @@ Beth at her feet"
 
     They all drew to the fire, mother in the big chair, with
     Beth at her feet
-                                                     _Frontispiece._
 
-    Titlepage                                                    iii
+    Preface
 
-    Preface                                                        v
+    Contents
 
-    Contents                                                     vii
+    Tail-piece to Contents
 
-    Tail-piece to Contents                                        ix
+    List of Illustrations
 
-    List of Illustrations                                         xi
+    Tail-piece to Illustrations
 
-    Tail-piece to Illustrations                                  xvi
+    Christmas won't be Christmas without any presents
 
-    Christmas won't be Christmas without any presents              1
-
-    Beth put a pair of slippers down to warm                       5
+    Beth put a pair of slippers down to warm
 
     I used to be so frightened when it was my turn to sit in
-    the big chair                                                  6
+    the big chair
 
-    Do it this way, clasp your hands so                            7
+    Do it this way, clasp your hands so
 
-    It was a cheerful, hopeful letter                             10
+    It was a cheerful, hopeful letter
 
-    How you used to play Pilgrim's Progress                       11
+    How you used to play Pilgrim's Progress
 
-    No one but Beth could get much music out of the old piano     13
+    No one but Beth could get much music out of the old piano
 
-    At nine they stopped work and sung as usual                   14
+    At nine they stopped work and sung as usual
 
-    Merry Christmas                                               15
+    Merry Christmas
 
-    The procession set out                                        19
+    The procession set out
 
-    Out came Meg with gray horse-hair hanging about her face      22
+    Out came Meg with gray horse-hair hanging about her face
 
-    A little figure in cloudy white                               23
+    A little figure in cloudy white
 
-    The lovers kneeling to receive Don Pedro's blessing           25
+    The lovers kneeling to receive Don Pedro's blessing
 
-    We talked over the fence                                      27
+    We talked over the fence
 
-    Tail-piece                                                    28
+    Tail-piece
 
-    Eating apples and crying over the "Heir of Redclyffe"         29
+    Eating apples and crying over the "Heir of Redclyffe"
 
-    Jo undertook to pinch the papered locks                       31
+    Jo undertook to pinch the papered locks
 
-    Mrs. Gardiner greeted them                                    34
+    Mrs. Gardiner greeted them
 
-    Face to face with the Laurence boy                            35
+    Face to face with the Laurence boy
 
-    They sat down on the stairs                                   39
+    They sat down on the stairs
 
-    Tell about the party                                          42
+    Tell about the party
 
-    The kitten stuck like a burr just out of reach                43
+    The kitten stuck like a burr just out of reach
 
-    Curling herself up in the big chair                           48
+    Curling herself up in the big chair
 
-    Reading that everlasting Belsham                              52
+    Reading that everlasting Belsham
 
-    He took her by the ear! by the ear!                           54
+    He took her by the ear! by the ear!
 
-    Mr. Laurence hooked up a big fish                             55
+    Mr. Laurence hooked up a big fish
 
-    Tail-piece                                                    57
+    Tail-piece
 
-    Being neighborly                                              58
+    Being neighborly
 
-    Laurie opened the window                                      60
+    Laurie opened the window
 
-    Poll tweaked off his wig                                      64
+    Poll tweaked off his wig
 
-    Putting his finger under her chin                             67
+    Putting his finger under her chin
 
-    Please give these to your mother                              69
+    Please give these to your mother
 
-    Tail-piece                                                    72
+    Tail-piece
 
-    O sir, they do care very much                                 75
+    O sir, they do care very much
 
-    Mr. Laurence often opened his study door                      77
+    Mr. Laurence often opened his study door
 
-    She put both arms around his neck and kissed him              81
+    She put both arms around his neck and kissed him
 
-    The Cyclops                                                   82
+    The Cyclops
 
-    Amy bore without flinching several tingling blows             86
+    Amy bore without flinching several tingling blows
 
-    You do know her                                               89
+    You do know her
 
-    Girls, where are you going?                                   91
+    Girls, where are you going?
 
-    I burnt it up                                                 95
+    I burnt it up
 
-    Held Amy up by his arms and hockey                            99
+    Held Amy up by his arms and hockey
 
-    Packing the go abroady trunk                                 104
+    Packing the go abroady trunk
 
-    Meg's partner appeared                                       110
+    Meg's partner appeared
 
-    Asked to be introduced                                       114
+    Asked to be introduced
 
-    I wouldn't, Meg                                              118
+    I wouldn't, Meg
 
-    Holding a hand of each, Mrs. March said, &c.                 122
+    Holding a hand of each, Mrs. March said, &c.
 
-    Mr. Pickwick                                                 125
+    Mr. Pickwick
 
-    Jo threw open the door of the closet                         131
+    Jo threw open the door of the closet
 
-    Jo spent the morning on the river                            134
+    Jo spent the morning on the river
 
-    Amy sat down to draw                                         136
+    Amy sat down to draw
 
-    O Pip! O Pip!                                                140
+    O Pip! O Pip!
 
-    Miss Crocker made a wry face                                 143
+    Miss Crocker made a wry face
 
-    We'll work like bees                                         146
+    We'll work like bees
 
-    Beth was post-mistress                                       147
+    Beth was post-mistress
 
     Amy capped the climax by putting a clothes-pin on her nose   151
 
-    Mr. Laurence waving his hat                                  153
+    Mr. Laurence waving his hat
 
-    Now, Miss Jo, I'll settle you                                155
+    Now, Miss Jo, I'll settle you
 
-    A very merry lunch it was                                    156
+    A very merry lunch it was
 
-    He went prancing down a quiet street                         158
+    He went prancing down a quiet street
 
-    "Oh, rise," she said                                         159
+    "Oh, rise," she said
 
-    A stunning blow from the big Greek lexicon                   159
+    A stunning blow from the big Greek lexicon
 
-    He sneezed                                                   160
+    He sneezed
 
-    The Portuguese walked the plank                              161
+    The Portuguese walked the plank
 
-    Will you give me a rose?                                     162
+    Will you give me a rose?
 
-    Miss Kate put up her glass                                   167
+    Miss Kate put up her glass
 
-    Ellen Tree                                                   168
+    Ellen Tree
 
-    Tail-piece                                                   171
+    Tail-piece
 
-    Swinging to and fro in his hammock                           172
+    Swinging to and fro in his hammock
 
-    It was rather a pretty little picture                        174
+    It was rather a pretty little picture
 
-    Waved a brake before her face                                178
+    Waved a brake before her face
 
-    I see him bow and smile                                      181
+    I see him bow and smile
 
-    Tail-piece                                                   183
+    Tail-piece
 
-    Jo was very busy                                             184
+    Jo was very busy
 
-    Hurrah for Miss March                                        189
+    Hurrah for Miss March
 
-    Jo darted away                                               190
+    Jo darted away
 
-    Jo laid herself on the sofa and affected to read             193
+    Jo laid herself on the sofa and affected to read
 
-    November is the most disagreeable month in the year          195
+    November is the most disagreeable month in the year
 
-    One of them horrid telegraph things                          197
+    One of them horrid telegraph things
 
-    She came suddenly upon Mr. Brooke                            199
+    She came suddenly upon Mr. Brooke
 
-    The man clipped                                              203
+    The man clipped
 
-    Tail-piece                                                   205
+    Tail-piece
 
-    Letters                                                      206
+    Letters
 
-    She rolled away                                              208
+    She rolled away
 
-    I wind the clock                                             213
+    I wind the clock
 
-    Yours Respectful, Hannah Mullet                              214
+    Yours Respectful, Hannah Mullet
 
-    Tail-piece                                                   215
+    Tail-piece
 
-    It didn't stir, and I knew it was dead                       218
+    It didn't stir, and I knew it was dead
 
-    He sat down beside her                                       221
+    He sat down beside her
 
-    What do you want now?                                        224
+    What do you want now?
 
-    Beth did have the fever                                      225
+    Beth did have the fever
 
-    Gently stroking her head as her mother used to do            228
+    Gently stroking her head as her mother used to do
 
-    Amy's Will                                                   234
+    Amy's Will
 
-    Polish up the spoons and the fat silver teapot               235
+    Polish up the spoons and the fat silver teapot
 
-    On his back, with all his legs in the air                    236
+    On his back, with all his legs in the air
 
-    I should choose this                                         237
+    I should choose this
 
-    Gravely promenaded to and fro                                241
+    Gravely promenaded to and fro
 
-    Amy's Will                                                   243
+    Amy's Will
 
-    Tail-piece                                                   245
+    Tail-piece
 
-    Mrs. March would not leave Beth's side                       246
+    Mrs. March would not leave Beth's side
 
-    Tail-piece                                                   253
+    Tail-piece
 
-    Letters                                                      254
+    Letters
 
-    Jo and her mother were reading the note                      256
+    Jo and her mother were reading the note
 
-    Get up and don't be a goose                                  261
+    Get up and don't be a goose
 
-    "Hold your tongue!" cried Jo, covering her ears              263
+    "Hold your tongue!" cried Jo, covering her ears
 
-    He stood at the foot, like a lion in the path                265
+    He stood at the foot, like a lion in the path
 
-    Beth was soon able to lie on the study sofa all day          269
+    Beth was soon able to lie on the study sofa all day
 
-    The Jungfrau                                                 271
+    The Jungfrau
 
-    Popping in her head now and then                             277
+    Popping in her head now and then
 
     He sat in the big chair by Beth's sofa with the other
-    three close by                                               277
+    three close by
 
-    Shall I tell you how?                                        280
+    Shall I tell you how?
 
-    Bless me, what's all this?                                   282
+    Bless me, what's all this?
 
-    For Mrs. John Brooke                                         288
+    For Mrs. John Brooke
 
-    Home of the Little Women                                     290
+    Home of the Little Women
 
-    The Dove Cote                                                293
+    The Dove Cote
 
-    A small watchman's rattle                                    302
+    A small watchman's rattle
 
-    Tail-piece                                                   305
+    Tail-piece
 
-    The First Wedding                                            306
+    The First Wedding
 
-    Artistic Attempts                                            313
+    Artistic Attempts
 
-    Her foot held fast in a panful of plaster                    315
+    Her foot held fast in a panful of plaster
 
-    Please don't, it's mine                                      322
+    Please don't, it's mine
 
-    Tail-piece                                                   324
+    Tail-piece
 
-    Literary Lessons                                             325
+    Literary Lessons
 
-    A check for one hundred dollars                              329
+    A check for one hundred dollars
 
-    Tail-piece                                                   333
+    Tail-piece
 
-    Domestic Experiences                                         334
+    Domestic Experiences
 
-    Both felt desperately uncomfortable                          341
+    Both felt desperately uncomfortable
 
-    A bargain, I assure you, ma'am                               344
+    A bargain, I assure you, ma'am
 
     Laurie heroically shut his eyes while something was put
-    into his arms                                                348
+    into his arms
 
-    Calls                                                        350
+    Calls
 
-    She took the saddle to the horse                             355
+    She took the saddle to the horse
 
-    It might have been worse                                     359
+    It might have been worse
 
-    The call at Aunt March's                                     362
+    The call at Aunt March's
 
-    Tail-piece                                                   364
+    Tail-piece
 
-    You shall have another table                                 365
+    You shall have another table
 
-    Bought up the bouquets                                       372
+    Bought up the bouquets
 
-    Tail-piece                                                   377
+    Tail-piece
 
-    Flo and I ordered a hansom-cab                               378
+    Flo and I ordered a hansom-cab
 
-    Every one was very kind, especially the officers             378
+    Every one was very kind, especially the officers
 
-    I've seen the imperial family several times                  384
+    I've seen the imperial family several times
 
-    Trying to sketch the gray-stone lion's head on the wall      387
+    Trying to sketch the gray-stone lion's head on the wall
 
-    She leaned her head upon her hands                           391
+    She leaned her head upon her hands
 
-    Now, this is filling at the price                            395
+    Now, this is filling at the price
 
-    Up with the Bonnets of Bonnie Dundee                         398
+    Up with the Bonnets of Bonnie Dundee
 
     I amused myself by dropping gingerbread nuts over
-    the seat                                                     403
+    the seat
 
-    Thou shalt haf thy Bhaer                                     406
+    Thou shalt haf thy Bhaer
 
-    He waved his hand, sock and all                              409
+    He waved his hand, sock and all
 
-    Dis is mine effalunt                                         410
+    Dis is mine effalunt
 
-    I sat down upon the floor and read and looked and ate        415
+    I sat down upon the floor and read and looked and ate
 
-    Tail-piece                                                   417
+    Tail-piece
 
-    In the presence of three gentlemen                           418
+    In the presence of three gentlemen
 
-    A select symposium                                           425
+    A select symposium
 
-    He doesn't prink at his glass before coming                  428
+    He doesn't prink at his glass before coming
 
-    Jo stuffed the whole bundle into the stove                   431
+    Jo stuffed the whole bundle into the stove
 
-    He put the sisters into the carriage                         435
+    He put the sisters into the carriage
 
-    He laid his head down on the mossy post                      438
+    He laid his head down on the mossy post
 
-    O Jo, can't you?                                             446
+    O Jo, can't you?
 
-    Tail-piece                                                   447
+    Tail-piece
 
     With her head in Jo's lap, while the wind blew
-    healthfully over her                                         449
+    healthfully over her
 
-    Tail-piece                                                   453
+    Tail-piece
 
-    He hurried forward to meet her                               454
+    He hurried forward to meet her
 
-    Here are your flowers                                        461
+    Here are your flowers
 
-    Demi and Daisy                                               466
+    Demi and Daisy
 
-    Mornin' now                                                  473
+    Mornin' now
 
-    My dear man, it's a bonnet                                   477
+    My dear man, it's a bonnet
 
-    Tail-piece                                                   479
+    Tail-piece
 
-    Sat piping on a stone while his goats skipped                480
+    Sat piping on a stone while his goats skipped
 
-    Laurie threw himself down on the turf                        485
+    Laurie threw himself down on the turf
 
-    A rough sketch of Laurie taming a horse                      493
+    A rough sketch of Laurie taming a horse
 
-    The Valley of the Shadow                                     495
+    The Valley of the Shadow
 
-    Tail-piece                                                   501
+    Tail-piece
 
-    Sat staring up at the busts                                  502
+    Sat staring up at the busts
 
-    Turning the ring thoughtfully upon his finger                507
+    Turning the ring thoughtfully upon his finger
 
-    O Laurie, Laurie, I knew you'd come                          511
+    O Laurie, Laurie, I knew you'd come
 
-    How well we pull together                                    515
+    How well we pull together
 
-    Jo and her father                                            518
+    Jo and her father
 
-    Jo laid her head on a comfortable rag-bag and cried          524
+    Jo laid her head on a comfortable rag-bag and cried
 
-    A substantial lifelike ghost leaning over her                525
+    A substantial lifelike ghost leaning over her
 
     The tall uncle proceeded to toss and tousle the
-    small nephew                                                 534
+    small nephew
 
-    O Mr. Bhaer, I am so glad to see you                         537
+    O Mr. Bhaer, I am so glad to see you
 
-    Mr. Bhaer sang heartily                                      541
+    Mr. Bhaer sang heartily
 
-    Mrs. Laurence sitting in her mother's lap                    543
+    Mrs. Laurence sitting in her mother's lap
 
-    They began to pace up and down                               547
+    They began to pace up and down
 
-    Tail-piece                                                   549
+    Tail-piece
 
-    Me loves evvybody                                            551
+    Me loves evvybody
 
-    What makes my legs go, dranpa?                               552
+    What makes my legs go, dranpa?
 
-    Dranpa, it's a We                                            556
+    Dranpa, it's a We
 
-    Tail-piece                                                   557
+    Tail-piece
 
-    Mr. Bhaer and Jo were enjoying promenades                    558
+    Mr. Bhaer and Jo were enjoying promenades
 
-    Looking up she saw Mr. Bhaer                                 561
+    Looking up she saw Mr. Bhaer
 
-    Does this suit you, Mr. Bhaer?                               565
+    Does this suit you, Mr. Bhaer?
 
-    Under the umbrella                                           573
+    Under the umbrella
 
-    Tail-piece                                                   574
+    Tail-piece
 
-    Harvest time                                                 575
+    Harvest time
 
-    Teddy bore a charmed life                                    582
+    Teddy bore a charmed life
 
     Leaving Mrs. March and her daughters under the festival
-    tree                                                         583
+    tree
 
-    Tail-piece                                                   586
+    Tail-piece
 
               [Illustration: Tail-piece to Illustrations]
 
@@ -22244,11 +22230,6 @@ at the end of a chapter. If there is two lines between a chapter heading
 and the illustration, then the illustration was an inline illustration
 (usually a drop-cap illustration).
 
-The illustrations have been moved so that they do not break up
-paragraphs and so that they are next to the text they illustrate, thus
-the page number of the illustration might not match the page number in
-the List of Illustrations.
-
 On page vii, in the Table of Contents, change page 7 to 1 for the
 beginning of Chapter One.
 
@@ -22315,7 +22296,7 @@ of The Pickwick Papers. Samuel Weller makes his first appearance in
 Chapter Ten of that novel.
 
 On page 128, in the Pickwick Portfolio, there is no period after "it is
-nearly school time" in N. Winkle's letter. This period was also missing
+nearly school time" in N. Winkle's letter. This period was also missing
 on page 151 of the 1869 novel. The missing period was intentional.
 
 On page 135, the ambiguous punctuation after "Oh, dear, no!" is an
@@ -22494,7 +22475,7 @@ period as placed after "Portraits, etc".
 
 After the novel is a list of The Works of Louisa May Alcott. The list is
 not complete: for example, there are no listings for her work as Flora
-Fairfield or A. M. Barnard. Nevertheless, the pages are a fine
+Fairfield or A. M. Barnard. Nevertheless, the pages are a fine
 structured outline of Ms. Alcott's best work.
 
 Most of the novels and stories in these four pages are published by
@@ -22511,218 +22492,216 @@ volumes, generally less than 100 pages, in The Children's Friend Series.
 
 
 
-End of the Project Gutenberg EBook of Little Women, by Louisa M. Alcott
+*** END OF THE PROJECT GUTENBERG EBOOK LITTLE WOMEN ***
 
-*** END OF THIS PROJECT GUTENBERG EBOOK LITTLE WOMEN ***
+Updated editions will replace the previous one--the old editions will
+be renamed.
 
-***** This file should be named 37106-8.txt or 37106-8.zip *****
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the
+United States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away--you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
 
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/3/7/1/0/37106/
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg™ electronic works to
-protect the PROJECT GUTENBERG™ concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
+START: FULL LICENSE
 
 THE FULL PROJECT GUTENBERG LICENSE
 PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
 
 To protect the Project Gutenberg™ mission of promoting the free
 distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg™ License (available with this file or online at
-http://gutenberg.org/license).
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
 
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg™ electronic works
 
-Section 1.  General Terms of Use and Redistributing Project Gutenberg™ 
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg™
+1.A. By reading or using any part of this Project Gutenberg™
 electronic work, you indicate that you have read, understand, agree to
 and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg™ electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg™ electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
 
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+1.B. “Project Gutenberg” is a registered trademark. It may only be
 used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
+agree to be bound by the terms of this agreement. There are a few
 things that you can do with most Project Gutenberg™ electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg™ electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg™ electronic
-works.  See paragraph 1.E below.
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
 
-1.C.  The Project Gutenberg Literary Archive Foundation ("the
-Foundation" or PGLAF), owns a compilation copyright in the collection of
-Project Gutenberg™ electronic works.  Nearly all the individual works
-in the collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you
-from copying, distributing, performing, displaying or creating
-derivative works based on the work as long as all references to Project
-Gutenberg are removed.  Of course, we hope that you will support the
-Project Gutenberg-tm mission of promoting free access to electronic
-works by freely sharing Project Gutenberg™ works in compliance with
-the terms of this agreement for keeping the Project Gutenberg™ name
-associated with the work.  You can easily comply with the terms of this
-agreement by keeping this work in the same format with its attached full
-Project Gutenberg™ License when you share it without charge with
-others.
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
 
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
 
-1.E.  Unless you have removed all references to Project Gutenberg:
+1.E. Unless you have removed all references to Project Gutenberg:
 
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg™ License must appear prominently
-whenever any copy of a Project Gutenberg™ work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
 
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you will have to check the laws of the country where
+  you are located before using this eBook.
 
-1.E.2.  If an individual Project Gutenberg™ electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg™ trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
 
-1.E.3.  If an individual Project Gutenberg™ electronic work is posted
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
 with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg™ License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
 
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg™
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
 License terms from this work, or any files containing a part of this
 work or any other work associated with Project Gutenberg™.
 
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
+1.E.5. Do not copy, display, perform, distribute or redistribute this
 electronic work, or any part of this electronic work, without
 prominently displaying the sentence set forth in paragraph 1.E.1 with
 active links or immediate access to the full terms of the Project
 Gutenberg™ License.
 
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg™ work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg™
-License as specified in paragraph 1.E.1.
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
 
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
+1.E.7. Do not charge a fee for access to, viewing, displaying,
 performing, copying or distributing any Project Gutenberg™ works
 unless you comply with paragraph 1.E.8 or 1.E.9.
 
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg™ electronic works provided
-that
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
 
- •  You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg™ works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg™ trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
+• You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg™ works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg™ trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, “Information about donations to the Project Gutenberg
+  Literary Archive Foundation.”
 
- •  You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg™
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg™ works.
+• You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg™
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg™
+  works.
 
- • You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
+• You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
 
- • You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg™ works.
+• You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg™ works.
 
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg™
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg™ trademark.  Contact the
-Foundation as set forth in Section 3 below.
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
 
 1.F.
 
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
+1.F.1. Project Gutenberg volunteers and employees expend considerable
 effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg™ collection.
-Despite these efforts, Project Gutenberg™ electronic works, and the
-medium on which they may be stored, may contain "Defects," such as, but
-not limited to, incomplete, inaccurate or corrupt data, transcription
-errors, a copyright or other intellectual property infringement, a
-defective or damaged disk or other medium, a computer virus, or computer
-codes that damage or cannot be read by your equipment.
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
 
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
 Gutenberg Literary Archive Foundation, the owner of the Project
 Gutenberg™ trademark, and any other party distributing a Project
 Gutenberg™ electronic work under this agreement, disclaim all
 liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
 LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
 PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
 TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
@@ -22730,107 +22709,99 @@ LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
 INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
 DAMAGE.
 
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
 defect in this electronic work within 90 days of receiving it, you can
 receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
 
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
 
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
 
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
 trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg™ electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg™ electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg™ work, and (c) any Defect you cause.
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
 
-
-Section  2.  Information about the Mission of Project Gutenberg™
+Section 2. Information about the Mission of Project Gutenberg™
 
 Project Gutenberg™ is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
 
 Volunteers and financial support to provide volunteers with the
-assistance they need, are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
+assistance they need are critical to reaching Project Gutenberg™'s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
 Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg™ and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.pglaf.org.
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org.
 
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
+Section 3. Information about the Project Gutenberg Literary
+Archive Foundation
 
-The Project Gutenberg Literary Archive Foundation is a non profit
+The Project Gutenberg Literary Archive Foundation is a non-profit
 501(c)(3) educational corporation organized under the laws of the
 state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
 
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at http://pglaf.org
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact.
 
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
+Section 4. Information about Donations to the Project Gutenberg
 Literary Archive Foundation
 
-Project Gutenberg™ depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
+Project Gutenberg™ depends upon and cannot survive without
+widespread public support and donations to carry out its mission of
 increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
 ($1 to $5,000) are particularly important to maintaining tax exempt
 status with the IRS.
 
 The Foundation is committed to complying with the laws regulating
 charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
+States. Compliance requirements are not uniform and it takes a
 considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit http://pglaf.org
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate.
 
 While we cannot and do not solicit contributions from states where we
 have not met the solicitation requirements, we know of no prohibition
@@ -22839,32 +22810,32 @@ approach us with offers to donate.
 
 International donations are gratefully accepted, but we cannot make
 any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
+outside the United States. U.S. laws alone swamp our small staff.
 
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit: http://pglaf.org/donate
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
 
+Section 5. General Information About Project Gutenberg™ electronic works
 
-Section 5.  General Information About Project Gutenberg™ electronic
-works.
-
-Professor Michael S. Hart is the originator of the Project Gutenberg™
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg™ eBooks with only a loose network of volunteer support.
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
 
 Project Gutenberg™ eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
 
-Most people start at our Web site which has the main PG search facility:
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
 
-     http://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
+This website includes information about Project Gutenberg™,
 including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 subscribe to our email newsletter to hear about new eBooks.
+

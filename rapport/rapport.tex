@@ -1,0 +1,99 @@
+\documentclass[a4paper,14pt,french]{report}
+
+% Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{babel}
+\usepackage{graphicx}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\usepackage{lipsum} % Juste pour générer du texte de remplissage, vous pouvez le supprimer
+\usepackage{setspace} % Espacement personnalisé
+\usepackage{hyperref} % Liens hypertexte
+\usepackage{cite} % Citations
+\usepackage{tocloft} % Personnalisation de la table des matières
+\usepackage{titletoc} % Personnalisation de la table des matières
+
+% Configuration de la page
+\usepackage[left=2.5cm,right=2.5cm,top=2.5cm,bottom=2.5cm,headheight=12.1638pt]{geometry}
+
+% Configuration des en-têtes et pieds de page
+\pagestyle{fancy}
+\fancyhf{}
+\lhead{\textbf{Rapport du projet Gutenberg}}
+\rhead{\rightmark}
+\rfoot{\thepage}
+
+% Configuration des titres des chapitres
+\titleformat{\chapter}[display]
+{\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter}{20pt}{\Huge}
+
+% Configuration des liens hypertexte
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,
+    urlcolor=cyan,
+}
+
+% Espacement personnalisé
+\setstretch{1.5}
+
+% Personnalisation de la table des matières
+\renewcommand{\cftchapleader}{\cftdotfill{\cftdotsep}} % Ajout de points de suspension entre les chapitres
+\renewcommand{\cftchapfont}{\normalfont\bfseries} % Police en gras pour les chapitres dans la table des matières
+\renewcommand{\cftchappagefont}{\normalfont\bfseries} % Police en gras pour les numéros de page des chapitres dans la table des matières
+\titlecontents{chapter}[0pt]{\vspace{1ex}}{\bfseries\chaptername\ \thecontentslabel\quad}{\bfseries}{\hspace{1em}\nobreak\itshape\contentspage} % Mise en forme des chapitres dans la table des matières
+
+% Début du document
+\begin{document}
+
+% Page de titre
+\begin{titlepage}
+    \centering
+    \includegraphics[width=0.4\textwidth]{logo.png}\par\vspace{1cm}
+    {\scshape\Large Université Paris 8 - Vincennes à Saint-Denis\par}
+    \vspace{1cm}
+    {\huge\bfseries Le Projet Gutenberg\par}
+    \vspace{1.5cm}
+    {\Large\textit{Anis \textsc{Ait Yacoub}}\par}
+    \vfill
+    Date de rendu : le 31/05/2023\par\vspace{1.75cm}
+\end{titlepage}
+
+% Page de garde
+\pagenumbering{gobble} % Pas de numérotation de page
+
+% Table des matières
+\pagenumbering{roman} % Numérotation des pages en chiffres romains pour la table des matières
+\tableofcontents
+
+% Introduction
+\chapter{Introduction}
+\label{ch:introduction}
+\input{sections/introduction.tex}
+
+% Chapitres suivants
+\chapter{Fonctionnalités}
+\label{ch:chapitre1}
+\input{sections/chapitre1.tex}
+
+\chapter{Analyseur de Données}
+\label{ch:chapitre2}
+\input{sections/chapitre2.tex}
+
+\chapter{Clustering de Données}
+\label{ch:chapitre3}
+\input{sections/chapitre3.tex}
+
+\chapter{Résultats}
+\label{ch:chapitre4}
+\input{sections/chapitre4.tex}
+
+% Conclusion
+\chapter{Conclusion}
+\label{ch:conclusion}
+\input{sections/conclusion.tex}
+
+
+\end{document}

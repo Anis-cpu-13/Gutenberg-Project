@@ -1,0 +1,17 @@
+L'analyseur de données est un module conçu pour effectuer des analyses statistiques et graphiques sur les données collectées à partir du scraper de livres. Cet outil utilise plusieurs bibliothèques Python, dont pandas pour la manipulation des données, matplotlib et seaborn pour la visualisation des données. Le code pour ce module est structuré de manière à charger les données à partir d'un fichier CSV, puis à effectuer trois analyses distinctes. Voici une description détaillée de ces analyses :
+
+\subsection{Chargement des Données}
+Le module commence par charger les données à partir d'un fichier CSV en utilisant la fonction \texttt{load\_data\_from\_csv(file\_path)}. Cette fonction utilise la bibliothèque pandas pour lire le fichier CSV et convertit ensuite le champ \texttt{'Downloads'} en un nombre entier pour faciliter les analyses ultérieures.
+
+\subsection{Analyses}
+Une fois les données chargées, trois types d'analyses sont effectués :
+
+\begin{enumerate}
+    \item \textbf{Distribution des Téléchargements :} Une analyse de la distribution des téléchargements est effectuée. Pour visualiser cette distribution, un histogramme est créé en utilisant la bibliothèque seaborn. L'histogramme affiche le nombre de téléchargements sur l'axe des x et la fréquence sur l'axe des y. Le graphique est sauvegardé sous le nom \texttt{'distribution\_downloads.png'}.
+    \item \textbf{Nombre de Livres par Auteur :} L'analyseur calcule ensuite le nombre de livres écrits par chaque auteur. Pour ce faire, il compte le nombre de fois que chaque auteur apparaît dans les données et affiche les dix auteurs avec le plus grand nombre de livres dans un graphique à barres. Le graphique est sauvegardé sous le nom \texttt{'books\_per\_author.png'}.
+    \item \textbf{Nombre de Livres par Sujet :} Enfin, le nombre de livres par sujet est analysé. Pour ce faire, le module compte le nombre de fois que chaque sujet apparaît dans les données et affiche les dix sujets les plus courants dans un graphique à barres. Le graphique est sauvegardé sous le nom \texttt{'books\_per\_subject.png'}.
+\end{enumerate}
+
+Toutes les analyses sont intégrées dans une seule fonction, \texttt{data\_analysis\_main(data)}, qui est appelée dans la fonction \texttt{main()}. Cette structure facilite l'exécution de l'analyse en une seule étape.
+
+En résumé, l'analyseur de données est un outil essentiel pour comprendre les tendances et les caractéristiques des livres téléchargés à partir du Projet Gutenberg.

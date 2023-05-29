@@ -1,0 +1,30 @@
+\sloppy
+
+Le scraper de livres comprend les fonctionnalités suivantes :
+
+\begin{itemize}
+    \item \textbf{Extraction des titres et auteurs des livres :} La fonction \texttt{get\_book\_titles\_and\_authors(url)} est utilisée pour récupérer les titres, les auteurs et les URL de chaque livre à partir de la page des 100 livres les plus téléchargés du Project Gutenberg. Elle envoie une requête HTTP à la page en utilisant le module \texttt{requests} et utilise \texttt{BeautifulSoup} pour analyser la réponse et extraire les informations nécessaires. Les informations de chaque livre sont stockées dans un dictionnaire, qui est ensuite ajouté à une liste.
+
+    \item \textbf{Récupération d'informations supplémentaires sur chaque livre :} La fonction \texttt{get\_book\_info(book)} est utilisée pour récupérer des informations supplémentaires sur chaque livre, telles que le sujet, la classe LoC (Library of Congress) et le nombre de téléchargements. Elle utilise également les modules \texttt{requests} et \texttt{BeautifulSoup} pour obtenir et analyser les informations de chaque page de livre.
+
+    \item \textbf{Téléchargement du contenu de chaque livre et conversion en format PDF :} La fonction \texttt{download\_book(book)} est utilisée pour télécharger le contenu de chaque livre au format texte, puis le convertir en PDF en utilisant la fonction \texttt{convert\_to\_pdf(text\_file, pdf\_file)}. Le module \texttt{requests} est utilisé pour télécharger le contenu du livre, qui est ensuite sauvegardé en tant que fichier texte. Le contenu du fichier texte est ensuite converti en PDF en utilisant le module \texttt{reportlab}.
+    
+    \item \textbf{Sauvegarde des informations extraites dans un fichier CSV pour une analyse ultérieure :} La fonction \texttt{save\_book\_info\_to\_csv(book\_list)} est utilisée pour sauvegarder les informations de chaque livre dans un fichier CSV. Le module \texttt{csv} de Python est utilisé pour écrire les informations dans le fichier CSV.
+\end{itemize}
+
+De plus, le script utilise la fonction \texttt{main()} pour exécuter l'ensemble du processus. La fonction \texttt{scrape\_and\_download\_books()} effectue toutes les opérations décrites ci-dessus en séquence. Le module \texttt{concurrent.futures} est utilisé pour paralléliser les téléchargements de livres et les requêtes d'informations sur les livres afin d'améliorer les performances. Un système de journalisation (\texttt{logging}) est également mis en place pour suivre les erreurs et les informations importantes.
+
+\section{Technologies Utilisées}
+
+Le scraper de livres utilise les technologies suivantes :
+
+\begin{itemize}
+    \item \textbf{BeautifulSoup :} Utilisé pour analyser les pages HTML et extraire les informations nécessaires.
+    \item \textbf{requests :} Utilisé pour envoyer des requêtes HTTP aux pages web et récupérer les réponses.
+    \item \textbf{reportlab :} Utilisé pour convertir le contenu des livres en format PDF.
+    \item \textbf{concurrent.futures :} Utilisé pour gérer les téléchargements simultanés de livres et les requêtes d'informations sur les livres afin d'améliorer les performances.
+\end{itemize}
+
+Ces technologies offrent des fonctionnalités puissantes pour le scraping de livres à partir du site Project Gutenberg et la manipulation des données extraites.
+
+Dans la section suivante, nous détaillerons chaque fonctionnalité du scraper de livres et présenterons des exemples concrets de son utilisation.

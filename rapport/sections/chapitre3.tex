@@ -1,0 +1,23 @@
+Le module de clustering de données est responsable de l'agrégation des livres selon certaines caractéristiques, telles que le sujet ou la classe LoC. Il utilise des techniques de clustering non supervisé, comme K-means et MeanShift. Le code pour ce module est présenté et détaillé ci-dessous :
+
+\subsection{Lecture et Prétraitement des Données}
+La fonction \texttt{read\_data} est utilisée pour lire les données du fichier CSV et les prétraiter pour le clustering.
+\begin{itemize}
+    \item \textbf{One-hot encoding :} Pour que les données catégorielles soient correctement interprétées par les algorithmes de clustering, elles sont encodées en utilisant une méthode appelée "One-hot encoding". Cela crée une nouvelle colonne pour chaque catégorie unique dans les colonnes 'Auteur', 'Sujet' et 'LoC Class'.
+    \item \textbf{Nettoyage des données :} Les colonnes qui ne sont plus nécessaires après le codage sont supprimées du dataframe. Ce sont 'Title', 'URL', 'Author', 'Subject' et 'LoC Class'.
+\end{itemize}
+
+\subsection{Clustering K-Means}
+La méthode K-Means est une technique populaire de clustering non supervisé. Elle vise à diviser les données en un nombre prédéfini de clusters (dans ce cas, 3), chaque cluster étant identifié par son centre (ou "centroïde"). La fonction \texttt{kmeans\_clustering} effectue le clustering K-Means sur les données et renvoie le modèle formé.
+
+\subsection{Clustering Mean Shift}
+La méthode Mean Shift est une autre technique de clustering non supervisé qui ne nécessite pas que le nombre de clusters soit défini à l'avance. Elle repose sur l'estimation de la densité de probabilité des données. La fonction \texttt{mean\_shift\_clustering} effectue le clustering Mean Shift sur les données. L'argument \texttt{bandwidth} dans l'implémentation de sklearn représente le rayon de la fenêtre du noyau et est estimé à l'aide de la méthode \texttt{estimate\_bandwidth}.
+
+\subsection{Évaluation des Clusters}
+Pour évaluer la qualité des clusters formés par les deux méthodes, la mesure de silhouette est utilisée. Elle mesure la proximité de chaque point de données dans un cluster par rapport aux points de données dans les clusters voisins. Les scores de silhouette varient de -1 à 1, où un score plus élevé indique que les points de données sont bien regroupés.
+
+\subsection{Visualisation des Clusters}
+Enfin, la fonction \texttt{plot\_clusters} est utilisée pour visualiser les clusters formés par les deux méthodes. Les graphiques de clusters sont sauvegardés sous forme d'images dans le répertoire \texttt{graphs}.
+
+En résumé, ce module lit et prépare les données, effectue le clustering à l'aide de deux méthodes différentes, évalue la qualité des clusters et visualise les résultats. Le code est bien organisé et modulaire, ce qui le rend facile à comprendre et à modifier si nécessaire.
+
